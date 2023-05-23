@@ -13,3 +13,6 @@ if (is.null(opt$file)){
   print_help(opt_parser)
   stop("At least one argument must be supplied (input file).n", call.=FALSE)
 }
+
+### or:
+args = commandArgs(trailingOnly=TRUE)
