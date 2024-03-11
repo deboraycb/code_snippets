@@ -1,0 +1,3 @@
+for rep in $(seq 1 $nsims); do
+	echo "python ./scripts/run_sim.py"
+done | parallel -j ${ncores}
