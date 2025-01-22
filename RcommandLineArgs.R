@@ -16,3 +16,4 @@ if (is.null(opt$file)){
 
 ### or:
 args = commandArgs(trailingOnly=TRUE)
+firstparam = args[1]
