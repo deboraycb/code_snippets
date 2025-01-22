@@ -30,13 +30,17 @@ git push -u origin main
 
 # 3. To push your local file changes to GitHub
 
+```
 git add NAME_OF_FILE
 git commit -m 'COMMIT MESSAGE'
 git push
+```
 
 # 4. To pull changes from GitHub to your local dir
 
+```
 git pull
+```
 
 # TIPS
 
