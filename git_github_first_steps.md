@@ -47,3 +47,5 @@ git pull
 - Always do 'git pull' before you start working on your directory, so you are sure to be editing the most recent version on GitHub
 
 - Always do git add/commit/push at the end of the day so you are sure that your changes are saved
+
+- To undo changes at different stages, see: https://www.atlassian.com/git/tutorials/undoing-changes/git-reset
